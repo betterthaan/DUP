@@ -1,0 +1,4 @@
+Запустить папку "Web-приложение" в Visual Studio Code.
+Создать Split Terminal -> PowerShell
+Для запуска сервера - cd project (\DUP\Web-приложение\project) -> python manage.py runserver
+Для запуска клиента - cd frontend (\DUP\Web-приложение\frontend) -> npm start
